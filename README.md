@@ -1,2 +1,2 @@
 # OOP-Adventure
-Create a program that uses object-oriented programming.
+Create a game that utilizes object-oriented programming by applying your creativity and the knowledge acquired from the python fundamentals class.
